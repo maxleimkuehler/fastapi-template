@@ -68,6 +68,10 @@ clean:
 	# Remove all pycache
 	find . | grep -E "__pycache__" | xargs rm -rf
 
+test: ## Run pytest
+test:
+	pytest . -p no:logging -p no:warnings
+
 leave: ## Cleanup and deactivate venv
 leave: clean
 	deactivate
