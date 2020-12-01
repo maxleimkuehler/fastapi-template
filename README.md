@@ -3,7 +3,7 @@
 
 | Branch: master |
 | -- |
-| ![Build & Test](https://github.com/maxleimkuehler/fastapi-template/workflows/Build/badge.svg?branch=master) |
+| ![Build](https://github.com/maxleimkuehler/fastapi-template/workflows/Build/badge.svg?branch=master) |
 
 ## Development Setup
 
