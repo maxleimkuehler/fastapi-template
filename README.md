@@ -1,4 +1,10 @@
 # Fast API Template
+## Build Status
+
+| Branch: master |
+| -- |
+| ![Build](https://github.com/maxleimkuehler/fastapi-template/workflows/Build/badge.svg?branch=master) |
+
 ## Development Setup
 
 Set up a virtual environment and install requirements:
